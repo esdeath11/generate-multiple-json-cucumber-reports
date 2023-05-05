@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "multiple-cucumber-html-reporter": "^3.3.0"
+  },
+  "devDependencies": {
+    "cucumber-html-reporter": "^6.0.0"
+  }
+}
